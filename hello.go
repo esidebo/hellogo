@@ -2,7 +2,7 @@ package main
 
 import (
         "fmt"
-        "example.com/user/hello/morestrings"
+        "github.com/esidebo/hellogo/morestrings"
 )
 
 func main() {
